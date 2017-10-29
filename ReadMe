@@ -1,0 +1,7 @@
+
+S3mock:
+Project is written to create mock server locally.
+
+This project is usning following library. 
+
+https://github.com/findify/s3mock
