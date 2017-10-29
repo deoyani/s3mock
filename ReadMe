@@ -5,3 +5,8 @@ Project is written to create mock server locally.
 This project is usning following library. 
 
 https://github.com/findify/s3mock
+
+Other references :
+https://stackoverflow.com/questions/6615988/how-to-mock-amazon-s3-in-an-integration-test
+
+http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
